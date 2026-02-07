@@ -22,3 +22,17 @@ To build a simple machine learning model and understand its performance.
 This project helped me understand the basics of data preprocessing,
 model training, and evaluation.
 
+## How to Run the Project
+
+1. Install required libraries:
+   pip install pandas scikit-learn
+
+2. Run the Python file:
+   python main.py
+
+## Model Used
+- Logistic Regression
+
+## Output
+- Model accuracy
+- Classification report
